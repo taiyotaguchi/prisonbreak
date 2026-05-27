@@ -1,7 +1,7 @@
-Prison Break
-Prison Break is a top-down level-progression “dungeon crawler”-type game themed around escaping a prison, in the style of Metal Gear: Solid or Hotline Miami. This release provides a simple prototype, showcasing the game's overall artistic and gameplay direction.
+# Prison Break v3.0 (2023-9-8) 
+Prison Break is a top-down level-progression “dungeon crawler”-type game themed around escaping a prison, in the style of Metal Gear: Solid or Hotline Miami.
 
-User Information
+## User Information
 Windows download: https://drive.google.com/file/d/1oMrphanWznGF9_czCj9fAp1SRiOM8yuc/view?usp=sharing
 Download -> Extract folder -> Open "Prison Break.exe"
 
