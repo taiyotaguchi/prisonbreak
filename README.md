@@ -1,7 +1,10 @@
-# Prison Break v3.0 (2023-9-8) 
-Prison Break is a top-down level-progression “dungeon crawler”-type game themed around escaping a prison, in the style of Metal Gear: Solid or Hotline Miami.
+# Prison Break
+A top-down shooter inspired by Hotline Miami, built in C# and Unity.
+Developed over 3 sprints (v1.0 → v3.0).
 
 ## User Information
+Itch.io download: tio0o0o0o.itch.io/prison-break
+
 Windows download: https://drive.google.com/file/d/1oMrphanWznGF9_czCj9fAp1SRiOM8yuc/view?usp=sharing
 Download -> Extract folder -> Open "Prison Break.exe"
 
